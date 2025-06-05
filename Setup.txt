@@ -9,6 +9,9 @@
                                                                             
 
 Internet Protocol Scanning Analyze Tools
+IM NOT THE CREATOR OF THESE TOOLS U CAN FIND THE RESPECTED OWNERS OF THESE TOOLS HERE
+ LANC - https://psychocoding.net/  - https://lanc-remastered.com/
+Cybersniff - https://github.com/CyberSniffDeveloper/desktop-client
 
 To Operate Sniffers Such As The Following
 - Lanc , Lanc Remastered , Lanc V2 , PCPS
